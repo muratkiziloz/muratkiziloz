@@ -6,7 +6,6 @@ Front End Developer
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [muratkizilozz@gmail.com](mailto:muratkizilozz@gmail.com)
-* 🧠  I'm learning Node js
 
 ### Skills
 
